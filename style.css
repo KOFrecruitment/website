@@ -27,14 +27,6 @@ body {
     width: 100%;
 }
 
-
-.container {
-    margin: 0 auto;
-    padding: 1rem;
-    width: 100% auto;
-    max-width: 100%;
-}
-
 .text-center {
     text-align: center;
 }
